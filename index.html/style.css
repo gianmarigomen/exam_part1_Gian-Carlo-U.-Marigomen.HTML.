@@ -1,0 +1,95 @@
+body{
+    background-color:rgb(196, 144, 67);
+}
+
+h1{
+    text-align: center ;
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif ;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: solid;
+}
+
+#p1{ 
+    justify-content: center;
+    color: antiquewhite;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    align-content: first baseline;
+}
+
+
+
+#p2{
+    justify-content: center;
+    color: antiquewhite;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#p3{
+    justify-content: center;
+    color: antiquewhite;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%; 
+  }
+
+  .center2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%; 
+  }
+
+  .center3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%; 
+  }
+
+  .lap{
+    font-size: 50px;
+    font-family:'Times New Roman', Times, serif ;
+    text-decoration: underline;
+
+  }
+
+#topnav{
+    width: 100%;
+    bottom:0;
+    left:0;
+    font-size: 30px;
+}
+
+.nav-link{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    line-height: 55px;
+    font-size: 30px;
+    color: antiquewhite;
+    text-decoration: dotted;
+}
+
+a:hover{
+    color: gray;
+
+}
